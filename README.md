@@ -71,13 +71,13 @@ A skill for your coding assistant that stops it from burying the answer. Action 
 
 1. Lead with the next action.
 2. Number multi-step tasks.
-3. End with one concrete next step.
-4. Suppress tangents.
-5. Restate state every turn.
+3. End with one concrete next step, and state a pending offer once.
+4. Stay on the requested task.
+5. Restate state every turn; automated notices get one line.
 6. Specific time estimates (minutes, not "a bit").
 7. Make wins visible.
 8. Matter-of-fact errors.
-9. Cap lists to 5 items.
+9. Keep groups small; preserve complete answers.
 10. No preamble. No recap. No closers.
 
 ## Tune it
